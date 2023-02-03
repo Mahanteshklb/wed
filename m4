@@ -8,3 +8,12 @@ second time
 =======
 >>>>>>> Stashed changes
 working area
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+typing second
+>>>>>>> 1a8dbaf03296156d11bb93a7054a04a05171f170
+=======
+>>>>>>> cf9e9aa... message
+>>>>>>> m
